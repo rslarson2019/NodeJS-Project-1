@@ -1,0 +1,21 @@
+{
+  "name": "node-js-project-1",
+  "version": "1.0.0",
+  "description": "Riley's NodeJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node helloworld.js"
+        
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rslarson2019/NodeJS-Project-1.git"
+  },
+  "author": "Riley Larson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rslarson2019/NodeJS-Project-1/issues"
+  },
+  "homepage": "https://github.com/rslarson2019/NodeJS-Project-1#readme"
+}
